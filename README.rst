@@ -2,6 +2,8 @@
 Metapack Linked Data
 ====================
 
+Linked data support for Metapack data packages
+
 
 Installation
 ============
